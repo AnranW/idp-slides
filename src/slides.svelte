@@ -308,9 +308,10 @@
 			<br>
 			<li>In general, good idea. </li>
 			<br>
-			<li>Seems user friendly and easy to use.</li> <br>
-			<li>Actually should help them reduce dependency on experts and solve problems quickly. </li><br>
-			<li>Mobile app that runs diagnostic AI removely is helpful. </li>
+			<li>Seems very user friendly and easy-to-use.</li> <br>
+			<li>Great solution to reduce dependency on experts and solve problems quickly. </li><br>
+			<li>Increases the familiarity of workers with robots and knowledge sharing. </li><br>
+			<li>The mobile app that runs diagnostic AI remotely is very useful. </li>
 		</ul>
 	</Layout></Slide>
 	<Slide>
