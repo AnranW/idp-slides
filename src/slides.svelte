@@ -275,20 +275,20 @@
 				- Does your solution really matter?
 			</Notes>
 			<div class="titlebar">
-				Who did we interview? which methods did we use for the evaluation?
+				Who did we interview? Which methods did we use for the evaluation?
 			</div>
 			<br>
 			<ul class="a">
 				<li>5 interviewees: 
 				<ul class="b"> 
 					<br>
-					<li>factory workers from (previous) work experience</li> 
+					<li>Factory workers from (previous) work experience.</li> 
 					<br>
-					<li>people recommended by our previous interviewees of iteration 1</li>
+					<li>People recommended by our previous interviewees of iteration 1.</li>
 				</ul>
 				<br>
 				<br>
-				<li>Methods used: 
+				<li>Methods used during the interviews: 
 				<ul class="b"> 
 					<br>
 					<li> Heuristic evaluation</li> 
@@ -345,7 +345,6 @@
 			<br>
 			<li>More signs of robot asking for help, e.g. red blinking lights, animation on the screen...</li>
 			<br>
-			<br>
 			<li>Suggested some more commonly seen errors:</li>
 				<ul class="b">
 					<br>
@@ -361,17 +360,17 @@
 			Evaluation results
 		</div>
 		<ul class="a">
-			<li>Icons in tamabotchi are confusing. </li> <br>
-			<li>Holding the phone during remote assistance is tiring. </li> <br>
-			<li>Cost of AR glasses might be high for clients. </li> <br>
-			<li>Maintenance routine could instead be: </li>
+			<li>Icons in tamabotchi are sometimes not self explanatory. </li> <br>
+			<li>Selection of language could be simpler and more visable. </li> <br>
+			<li>Holding the phone during remote assistance is tiring. AR glasses are much convenient.</li> <br>
+			<li>If the cost of AR glasses is too high, it will make the feature irrelevant and unused. </li> <br>
+			<li>The title "Maintenance routine" is not aligned with the content, instead: </li>
 			<ul class="b">
-				<li>Regular maintenance that should be done</li>
-				<li>When the expert was on site and what they did</li>
-				<li>Errors and their solutions that do not need the diagnostic ai </li>
+				<li>Regular maintenance tasks.</li>
+				<li>Error codes & solution steps. </li>
 			</ul>
 			<br>
-			<li>Icon to select language could be bigger</li>
+			
 		</ul>
 	</Layout></Slide>
 	
@@ -388,9 +387,9 @@
 				<br>
 				<li> Emergency button on the main screen. </li>
 				<br>
-				<li> Modify icons on all parts of the prototype. </li>
+				<li> Modify icons to make them self-explanatory </li>
 				<br>
-				<li>Modify maintenance contents. </li> <br>
+				<li> Modify the "maintenance routine" title. </li> <br>
 				<li>...</li>
 			</ul>
 	</Layout></Slide>
