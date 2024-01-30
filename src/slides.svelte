@@ -283,7 +283,6 @@
 				<ul class="b"> 
 					<br>
 					<li>Factory workers from (previous) work experience.</li> 
-					<br>
 					<li>People recommended by our previous interviewees of iteration 1.</li>
 				</ul>
 				<br>
