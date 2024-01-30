@@ -287,6 +287,7 @@
 					<li>people recommended by our previous interviewees of iteration 1</li>
 				</ul>
 				<br>
+				<br>
 				<li>Methods used: 
 				<ul class="b"> 
 					<br>
