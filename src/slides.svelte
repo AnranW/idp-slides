@@ -275,15 +275,26 @@
 				- Does your solution really matter?
 			</Notes>
 			<div class="titlebar">
-				Who can evaluate?
+				Who did we interview? which methods did we use for the evaluation?
 			</div>
 			<br>
 			<ul class="a">
 				<li>5 interviewees: 
 				<ul class="b"> 
-					<li>suitable user known from (previous) work experience</li> 
+					<br>
+					<li>factory workers from (previous) work experience</li> 
 					<br>
 					<li>people recommended by our previous interviewees of iteration 1</li>
+				</ul>
+				<br>
+				<li>Methods used: 
+				<ul class="b"> 
+					<br>
+					<li> Heuristic evaluation</li> 
+					<br>
+					<li> Questionnaires</li>
+					<br>
+					<li> Thinking aloud</li>
 				</ul>
 			</ul>
 		</Layout>
@@ -332,6 +343,7 @@
 			<li>There should be a big emergency button on the on-bot screen. </li>
 			<br>
 			<li>More signs of robot asking for help, e.g. red blinking lights, animation on the screen...</li>
+			<br>
 			<br>
 			<li>Suggested some more commonly seen errors:</li>
 				<ul class="b">
