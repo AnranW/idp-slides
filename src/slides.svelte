@@ -275,36 +275,44 @@
 				- Does your solution really matter?
 			</Notes>
 			<div class="titlebar">
-				Who can evaluate?
+				Who did we interview? Which methods did we use for the evaluation?
 			</div>
 			<br>
 			<ul class="a">
 				<li>5 interviewees: 
 				<ul class="b"> 
-					<li>suitable user known from (previous) work experience</li> 
 					<br>
-					<li>people recommended by our previous interviewees of iteration 1</li>
+					<li>Factory workers from (previous) work experience.</li> 
+					<li>People recommended by our previous interviewees of iteration 1.</li>
+				</ul>
+				<br>
+				<li>Methods used during the interviews: 
+				<ul class="b"> 
+					<br>
+					<li> Heuristic evaluation</li> 
+					<li> Questionnaires</li>
+					<li> Thinking aloud</li>
 				</ul>
 			</ul>
 		</Layout>
 	</Slide>
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results: positives
+			Evaluation results: Overview of positives
 		</div>
 		<ul class="a">
 			<br>
-			<li>In general, good idea. </li>
-			<br>
-			<li>Seems user friendly and easy to use.</li> <br>
-			<li>Actually should help them reduce dependency on experts and solve problems quickly. </li><br>
-			<li>Mobile app that runs diagnostic AI removely is helpful. </li>
+			<li>Very good idea. </li><br>
+			<li>Great solution to reduce dependency on experts and solve problems quickly. </li><br>
+			<li>App interface is user-friendly and easy-to-use.</li> <br>
+			<li>App features increase the familiarity of workers with robots and knowledge sharing. </li><br>
+			<li>The possibility of running the diagnostic AI remotely is very useful. </li>
 		</ul>
 	</Layout></Slide>
 	<Slide>
 		<Layout>
 			<div class="titlebar">
-				Evaluation results: improvements
+				Evaluation results: suggested improvements
 			</div>
 			<br>
 			<ul class="a">
@@ -325,7 +333,7 @@
 
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results: improvements
+			Evaluation results: suggested improvements
 		</div>
 		<br>
 		<ul class="a">
@@ -335,49 +343,51 @@
 			<br>
 			<li>Suggested some more commonly seen errors:</li>
 				<ul class="b">
-					<li>EMERGENCY BUTTON ACTIVATION</li>
+					<br>
+					<li>Emergency button activation.</li>
 					<!-- <img src="https://plc-trade.com/pub/20621/3su1100-1hb20-1cg0.jpg" alt="error" class="h-[20vh]"> -->
 					<br>
-					<li>LOST LOCATION</li>
+					<li>Lost location.</li>
 				</ul>
 		</ul>
 	</Layout></Slide>
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results
+			Evaluation results: suggested improvements
 		</div>
 		<ul class="a">
-			<li>Icons in tamabotchi are confusing. </li> <br>
-			<li>Holding the phone during remote assistance is tiring. </li> <br>
-			<li>Cost of AR glasses might be high for clients. </li> <br>
-			<li>Maintenance routine could instead be: </li>
+			<li>Icons in tamabotchi are sometimes not self explanatory. </li> <br>
+			<li>Selection of language could be simpler and more visable. </li> <br>
+			<li>Holding the phone during remote assistance is tiring.</li> <br>
+			<li>Cost of AR glasses might be too high, it could make the feature irrelevant. </li> <br>
+			<li>The title "Maintenance routine" is not aligned with the content, instead: </li>
 			<ul class="b">
-				<li>Regular maintenance that should be done</li>
-				<li>When the expert was on site and what they did</li>
-				<li>Errors and their solutions that do not need the diagnostic ai </li>
+				<li>Regular maintenance tasks.</li>
+				<li>Error codes & solution steps. </li>
 			</ul>
 			<br>
-			<li>Icon to select language could be bigger</li>
+			
 		</ul>
 	</Layout></Slide>
 	
 	<Slide><Layout>
 			<div class="titlebar">
-				Possible improvements
+				Main improvements
 			</div>
 			<ul class="a">
 				<li> Images, animation, blinking lights... </li>
 				<br>
-				<li> QR code to the app on the main page of on-bot screen. </li>
+				<li> QR code to the app on the main page of on-robot screen. </li>
 				<br>
 				<li> Notification push in case of problems. </li>
 				<br>
 				<li> Emergency button on the main screen. </li>
 				<br>
-				<li> Modify icons on all parts of the prototype. </li>
+				<li> Modify icons to make them more self-explanatory. </li>
 				<br>
-				<li>Modify maintenance contents. </li> <br>
-				<li>...</li>
+				<li> Modify the "maintenance routine" title. </li> 
+				<br>
+				<li> Make the language selection simpler and more visible.</li>
 			</ul>
 	</Layout></Slide>
 	<Slide><Layout>
