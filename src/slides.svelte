@@ -390,12 +390,7 @@
 				<img src="/idp-slides/virtual-new.png" alt="french" class="h-[50vh]">
 				<!-- <img src="/idp-slides/english-new.png" alt="french" class="h-[50vh]  ml-[10vh]"> -->
 			</figure>
-			<figure class="w-[40vw] mt-[10vh]">
-				<div class="flex mx-[2vh]">
-					<!-- <img src="/idp-slides/virtual-new.png" alt="french" class="h-[50vh] ml-[1vh]"> -->
-					<img src="/idp-slides/english-new.png" alt="french" class="h-[50vh]  ml-[10vh]">
-				</div>
-			</figure>
+			
 		</div>
 	</Layout></Slide>
 
