@@ -287,14 +287,11 @@
 					<li>People recommended by our previous interviewees of iteration 1.</li>
 				</ul>
 				<br>
-				<br>
 				<li>Methods used during the interviews: 
 				<ul class="b"> 
 					<br>
 					<li> Heuristic evaluation</li> 
-					<br>
 					<li> Questionnaires</li>
-					<br>
 					<li> Thinking aloud</li>
 				</ul>
 			</ul>
@@ -362,8 +359,8 @@
 		<ul class="a">
 			<li>Icons in tamabotchi are sometimes not self explanatory. </li> <br>
 			<li>Selection of language could be simpler and more visable. </li> <br>
-			<li>Holding the phone during remote assistance is tiring. AR glasses are much convenient.</li> <br>
-			<li>If the cost of AR glasses is too high, it will make the feature irrelevant and unused. </li> <br>
+			<li>Holding the phone during remote assistance is tiring.</li> <br>
+			<li>Cost of AR glasses might be too high, it could make the feature irrelevant. </li> <br>
 			<li>The title "Maintenance routine" is not aligned with the content, instead: </li>
 			<ul class="b">
 				<li>Regular maintenance tasks.</li>
