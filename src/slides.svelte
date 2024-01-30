@@ -383,11 +383,11 @@
 				<br>
 				<li> Emergency button on the main screen. </li>
 				<br>
-				<li> Modify icons to make them more self-explanatory </li>
+				<li> Modify icons to make them more self-explanatory. </li>
 				<br>
 				<li> Modify the "maintenance routine" title. </li> 
 				<br>
-				<li> make the language selection simpler and more visible</li>
+				<li> Make the language selection simpler and more visible.</li>
 			</ul>
 	</Layout></Slide>
 	<Slide><Layout>
