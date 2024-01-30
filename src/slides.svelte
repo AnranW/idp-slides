@@ -207,7 +207,7 @@
 			</ul>
 			<figure class="w-[80vw]">
 				<div class="flex mx-[2vh]">
-					<img src="/idp-slides/virtual-fr.png" alt="french" class="h-[50vh] ml-[1vh]">
+					<img src="/idp-slides/virtual-fr.jpeg" alt="french" class="h-[50vh] ml-[1vh]">
 					<img src="/idp-slides/french.jpeg" alt="french" class="h-[50vh]  ml-[10vh]">
 				</div>
 			<figcaption>French menu</figcaption>
