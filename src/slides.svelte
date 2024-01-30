@@ -302,22 +302,21 @@
 	</Slide>
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results: positives
+			Evaluation results: Overview of positives
 		</div>
 		<ul class="a">
 			<br>
-			<li>In general, good idea. </li>
-			<br>
-			<li>Seems very user friendly and easy-to-use.</li> <br>
+			<li>Very good idea. </li><br>
 			<li>Great solution to reduce dependency on experts and solve problems quickly. </li><br>
-			<li>Increases the familiarity of workers with robots and knowledge sharing. </li><br>
-			<li>The mobile app that runs diagnostic AI remotely is very useful. </li>
+			<li>App interface is user-friendly and easy-to-use.</li> <br>
+			<li>App features increase the familiarity of workers with robots and knowledge sharing. </li><br>
+			<li>The possibility of running the diagnostic AI remotely is very useful. </li>
 		</ul>
 	</Layout></Slide>
 	<Slide>
 		<Layout>
 			<div class="titlebar">
-				Evaluation results: improvements
+				Evaluation results: suggested improvements
 			</div>
 			<br>
 			<ul class="a">
@@ -338,7 +337,7 @@
 
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results: improvements
+			Evaluation results: suggested improvements
 		</div>
 		<br>
 		<ul class="a">
@@ -358,7 +357,7 @@
 	</Layout></Slide>
 	<Slide><Layout>
 		<div class="titlebar">
-			Evaluation results
+			Evaluation results: suggested improvements
 		</div>
 		<ul class="a">
 			<li>Icons in tamabotchi are sometimes not self explanatory. </li> <br>
@@ -377,21 +376,22 @@
 	
 	<Slide><Layout>
 			<div class="titlebar">
-				Possible improvements
+				Main improvements
 			</div>
 			<ul class="a">
 				<li> Images, animation, blinking lights... </li>
 				<br>
-				<li> QR code to the app on the main page of on-bot screen. </li>
+				<li> QR code to the app on the main page of on-robot screen. </li>
 				<br>
 				<li> Notification push in case of problems. </li>
 				<br>
 				<li> Emergency button on the main screen. </li>
 				<br>
-				<li> Modify icons to make them self-explanatory </li>
+				<li> Modify icons to make them more self-explanatory </li>
 				<br>
-				<li> Modify the "maintenance routine" title. </li> <br>
-				<li>...</li>
+				<li> Modify the "maintenance routine" title. </li> 
+				<br>
+				<li> make the language selection simpler and more visible</li>
 			</ul>
 	</Layout></Slide>
 	<Slide><Layout>
